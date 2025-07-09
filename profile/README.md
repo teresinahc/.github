@@ -5,7 +5,7 @@ O Teresina Hacker Clube é um espaço aberto para aprender, compartilhar e const
 Somos um coletivo de pessoas interessadas em cultura hacker, software livre, educação crítica e soluções de baixo custo. Acreditamos na colaboração como motor da inovação e na tecnologia como ferramenta de transformação social.
 
 ### Sobre o Clube
-- Código de Conduta: [teresinahacker.club/cdc](https://teresinahacker.club/cdc)
+- Código de Conduta: [github.com/teresinahc/codigo-de-conduta](https://github.com/teresinahc/codigo-de-conduta)
 - Site oficial: [teresinahacker.club](https://teresinahacker.club)
 - Contato: [contato@teresinahacker.club](mailto:contato@teresinahacker.club)
 
